@@ -5,3 +5,5 @@ StandardScaler is used here for scaling the data.
 ## Models used for predictions
 1. Logistic Regression
 2. Random Forest
+## Dataset Link
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?select=creditcard.csv
